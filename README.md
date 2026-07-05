@@ -42,6 +42,4 @@ The project was built and deployed on OVH, with MySQL database integration and e
 <img width="675" height="444" alt="image" src="https://github.com/user-attachments/assets/37306a69-9978-4fde-82e2-c9afd8568eda" />
 
 
-## Status
 
-Academic full-stack web and database project.
