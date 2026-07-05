@@ -9,11 +9,6 @@ HOLOMUSIC is a web application designed to present music-related content through
 
 The project was built and deployed on OVH, with MySQL database integration and external libraries for interface and user experience improvements.
 
-
-## Overview
-
-The project was developed with PHP and MySQL in a local MAMP environment, with attention to basic web security such as prepared SQL queries, input validation and output escaping.
-
 ## Main Features
 
 - Article publication and reading
