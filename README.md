@@ -46,8 +46,7 @@ The project was built and deployed on OVH, with MySQL database integration and e
 <img width="691" height="673" alt="image" src="https://github.com/user-attachments/assets/2b00a81b-e0c8-43f1-b72a-c6c11397edef" />
 <img width="675" height="528" alt="image" src="https://github.com/user-attachments/assets/cc64c55a-042f-4950-99c6-8796b8dcbbe2" />
 <img width="675" height="444" alt="image" src="https://github.com/user-attachments/assets/37306a69-9978-4fde-82e2-c9afd8568eda" />
-<img width="501" height="524" alt="image" src="https://github.com/user-attachments/assets/db3ae1b6-9de1-4af7-942c-539209739f0c" />
-<img width="457" height="530" alt="image" src="https://github.com/user-attachments/assets/314737fb-0a43-4dbd-bc4a-932e8b2e9c61" />
+
 
 ## Status
 
